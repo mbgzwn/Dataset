@@ -3,7 +3,7 @@ CROSS_VIEW_DATASET is an image dataset for single-target pedestrian tracking in 
 
 It was produced by Nan Wang of Southwest Petroleum University, Chengdu, China.
 
-It is now maintained by Mr. Nan Wang of the IPPC Lab at Southwest Petroleum University.
+It is now maintained by Mr. Nan Wang(1458872066@qq.com) of the IPPC Lab at Southwest Petroleum University.
 
 If you need to use it to test your own algorithms, please feel free to download it.
 
